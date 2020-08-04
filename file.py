@@ -32,3 +32,4 @@ users = {
 
 print(users['furkan']['age'])
 
+

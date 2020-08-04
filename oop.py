@@ -2,7 +2,7 @@
 class Circle:
     pi = 3.14
 
-    def __init__(self, yaricap):
+    def __init__(self, yaricap = 1):  # eger bir deger atanmazsa 1 olarak kabul edilecek 
         self.yaricap = yaricap
         
     def cevre_hesapla(self):
